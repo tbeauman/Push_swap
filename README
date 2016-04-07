@@ -1,0 +1,2 @@
+to use: ./push-swap <list of numbers>
+Doesn't sort list of numbers that contain twice the same or numbers below -2147485658 or above 2147483647
